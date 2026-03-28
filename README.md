@@ -23,6 +23,9 @@
 * **Środowisko:** Visual Studio 2022
 
 ## Jak uruchomić?
-Gra powinna uruchomić się bez problemu i konieczności dodatkowych plików
+Gra powinna uruchomić się bez problemu i konieczności pobierania dodatkowych plików
 1. Pobierz repozytorium: `git clone https://github.com/Wojtek4321/Knights-Legacy.git`
 2. Otwórz `.sln` w Visual Studio 2022.
+
+Wykorzystane assety:
+https://pixelfrog-assets.itch.io/tiny-swords
