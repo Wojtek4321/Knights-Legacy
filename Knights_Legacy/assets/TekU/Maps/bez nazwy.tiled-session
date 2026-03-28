@@ -1,0 +1,574 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx",
+    "expandedProjectPaths": [
+        "v3",
+        "Glowna mapa/collision",
+        "Glowna mapa",
+        "v8",
+        ".",
+        "v4",
+        "v5",
+        "v7"
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx": {
+            "expandedObjectLayers": [
+                12
+            ],
+            "scale": 0.25,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 3002,
+                "y": 2136
+            }
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#02": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#03": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#04": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#05": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#06": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#07": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#08": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#09": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#10": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#11": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#12": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#13": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#14": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#15": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#16": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#17": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#18": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#BRDIGET": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#GROUND": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#SHADOW": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#TRASS": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#Tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx#deco": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 5804.545454545454,
+                "y": 3396.969696969697
+            }
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#02": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#03": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#04": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#05": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#06": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#07": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#08": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#09": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#10": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#11": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#12": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#13": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#14": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#15": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#16": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#17": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#18": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#BRDIGET": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#GROUND": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#SHADOW": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#TRASS": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#Tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#deco": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx#kn": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap1 — kopia.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 8358,
+                "y": 4128
+            }
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap1 — kopia.tmx#all": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap1.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4314,
+                "y": 2256
+            }
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap1.tmx#all": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap2.tmx": {
+            "scale": 0.21322428385416667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3074.2277012327772,
+                "y": 2143.283080798443
+            }
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap2.tmx#all": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx": {
+            "expandedObjectLayers": [
+                12
+            ],
+            "scale": 0.33,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 5804.545454545454,
+                "y": 3396.969696969697
+            }
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#01": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#02": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#03": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#04": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#05": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#06": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#07": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#08": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#09": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#10": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#11": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#12": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#13": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#14": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#15": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#16": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#17": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#18": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#BRDIGET": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#GROUND": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#SHADOW": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#TRASS": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#Tree": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx#deco": {
+            "scaleInDock": 1
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v8/V8glownaMap1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4274,
+                "y": 2642.6666666666665
+            }
+        },
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v8/V8glownaMap1.tmx#all": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Glowna mapa/collision/V3glownaMap.xml.tmx": {
+            "expandedObjectLayers": [
+                12
+            ],
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3074.242424242424,
+                "y": 2048.484848484848
+            }
+        },
+        "v3/V3glownaMap.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 3683.333333333333,
+                "y": 2048.484848484848
+            }
+        },
+        "v3/V3glownaMap.tmx#01": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#02": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#03": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#04": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#05": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#06": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#07": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#08": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#09": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#10": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#11": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#12": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#13": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#14": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#15": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#16": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#17": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#18": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#BRDIGET": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#GROUND": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#SHADOW": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#TRASS": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#Tree": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#deco": {
+            "scaleInDock": 1
+        },
+        "v4/bez nazwy.tmx": {
+            "scale": 0.8767708333333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1013.9479624569324,
+                "y": 639.2776523702031
+            }
+        },
+        "v4/bez nazwy.tmx#water": {
+            "scaleInDock": 1
+        },
+        "v4/v4.tmx": {
+            "scale": 0.24244791666666662,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1829.2588614393133,
+                "y": 639.3125671321161
+            }
+        },
+        "v4/v4.tmx#all": {
+            "scaleInDock": 1
+        },
+        "v4/v4.tmx#water": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx": {
+            "scale": 0.21322428385416667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2087.004312812488,
+                "y": 2047.1401854891035
+            }
+        },
+        "v5/V5glownaMap.tmx#01": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#02": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#03": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#04": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#05": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#06": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#07": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#08": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#09": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#10": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#11": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#12": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#13": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#14": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#15": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#16": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#17": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#18": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#BRDIGET": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#GROUND": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#SHADOW": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#TRASS": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#Tree": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "v5/V5glownaMap.tmx#deco": {
+            "scaleInDock": 1
+        },
+        "v8/V8glownaMap1.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4010.6060606060605,
+                "y": 1839.3939393939395
+            }
+        },
+        "v8/V8glownaMap1.tmx#all": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/Mapa głowna/collision/v2/v3",
+    "last.imagePath": "C:/Users/msiwp/source/repos/Projekt RPG GAME/Knight's Legacy/Knight's Legacy/TekU/Kn",
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "openFiles": [
+        "v3/V3glownaMap.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v8/V8glownaMap1.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap1 — kopia.tmx"
+    ],
+    "project": "bez nazwy.tiled-project",
+    "recentFiles": [
+        "v3/V3glownaMap.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v3/V3glownaMap.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/v8/V8glownaMap1.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap1 — kopia.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V3glownaMap — kopia.tmx",
+        "Glowna mapa/collision/V3glownaMap.xml.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap1.tmx",
+        "C:/Users/msiwp/Documents/1-PROJEKT SFML WSZYSTKO/Maps/DO KONFIGURACJI GLOWNEJ MAPY WARSTOWO/V8glownaMap2.tmx",
+        "v8/V8glownaMap1.tmx",
+        "v4/bez nazwy.tmx",
+        "v5/V5glownaMap.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

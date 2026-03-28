@@ -1,0 +1,107 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "v3/V3glownaMap.tmx",
+    "expandedProjectPaths": [
+        "v3",
+        "test",
+        ".",
+        "Glowna mapa"
+    ],
+    "fileStates": {
+        "v3/V3glownaMap.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3458,
+                "y": 1696
+            }
+        },
+        "v3/V3glownaMap.tmx#01": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#02": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#03": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#04": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#05": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#06": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#07": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#08": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#09": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#10": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#11": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#12": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#13": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#14": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#15": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#16": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#17": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#18": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#BRDIGET": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#GROUND": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#SHADOW": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#TRASS": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#Tree": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#Water": {
+            "scaleInDock": 1
+        },
+        "v3/V3glownaMap.tmx#deco": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 1280,
+    "map.width": 1919,
+    "openFiles": [
+        "v3/V3glownaMap.tmx"
+    ],
+    "project": "background.tiled-project",
+    "recentFiles": [
+        "v3/V3glownaMap.tmx"
+    ]
+}
