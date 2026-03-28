@@ -318,7 +318,7 @@ int main()
     
     //muzyka 
     sf::Music menusmuisc;
-    if (!menusmuisc.openFromFile("assets/TekU/music/BackMusic.mp3")) {
+    if (!menusmuisc.openFromFile("assets/TekU/music/BackMusicKrotko.mp3")) {
         return -1; // Błąd ładowania pliku
     }
     menusmuisc.setLoop(true);
