@@ -3,7 +3,7 @@
 **Knight's Legacy** to gra 2D stworzona w języku **C++** przy użyciu biblioteki **SFML**. Projekt skupia się na mechanikach RPG, systemie walki oraz eksploracji mapy.
 
 ## Screeny z gry
-![Rozgrywka](<img width="1921" height="1080" alt="Zrzut ekranu 2026-03-28 223519" src="https://github.com/user-attachments/assets/b242464a-c429-4d70-84b5-fdce6a3d0d0e" />)
+![Rozgrywka](./screenshots/rozgrywka.png)
 
 ## Główne Funkcje
 * **Fizyka i Kolizje:** Autorski system wykrywania kolizji i interakcji.
