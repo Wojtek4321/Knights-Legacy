@@ -1,31 +1,33 @@
 # Knight's Legacy
 
-**Knight's Legacy** to gra 2D stworzona w języku **C++** przy użyciu biblioteki **SFML**. Projekt skupia się na mechanikach RPG, systemie walki oraz eksploracji mapy.
+**Knight's Legacy** is a 2D action-RPG developed in **C++** using the **SFML** library. The project focuses on core RPG mechanics, a dynamic combat system, and map exploration.
 
-## Screeny z gry
+## Screenshots
 ![Rozgrywka](./screenshots/rozgrywka.png)
 
-## Główne Funkcje
-* **Fizyka i Kolizje:** Autorski system wykrywania kolizji i interakcji.
-* **AI Przeciwników:** Przeciwnicy posiadają stany (IDLE, WALKING, ATTACKING, DEAD) i inteligentnie podążają za graczem, omijając przeszkody.
-* **Interaktywne Budynki:** System budowania z czasem progresu (Pasek postępu nad głową robotnika).
-* **Dynamiczne Zasoby:** *
-    * **Drzewa:** Możliwość wycinki i regeneracji po czasie.
-    * **Owce:** Mechanika ucieczki przed graczem po otrzymaniu obrażeń.
-    * **Kopalnie Złota:** Wymagają odbudowy, po której cyklicznie generują surowce.
-* **System Dialogów:** Maszyna stanów obsługująca misje i wyświetlająca tekst "literka po literce" dla lepszego klimatu RPG.
-* **Wybór Bohatera:** Możliwość wyboru koloru rycerza oraz wpisania własnego nicku.
-* **System Rankingu:** Zapisywanie najlepszych czasów do plików `.txt` i wyświetlanie Topowych graczy.
+## Key Features
+**Advanced Physics & Collisions:** A custom-built collision detection and interaction system.
+* **Smart Enemy AI:** Enemies feature state-machine logic (IDLE, WALKING, ATTACKING, DEAD) and intelligently track the player.
+* **Interactive Buildings:** Construction system with progress bars (visualized over the worker's head).
+* **Dynamic Resources:**
+    * **Trees:** Harvestable wood that regenerates over time.
+    * **Sheep:** Reactive animals that flee upon taking damage.
+    * **Gold Mines:** Require reconstruction before they start generating resources periodically.
+* **Dialogue System:** State-driven dialogue boxes with a "typewriter effect" (letter-by-letter) for an immersive RPG experience.
+* **Character Customization:** Choose your knight's color and enter a custom nickname.
+* **Ranking System:** Performance tracking saved to `.txt` files with a Top Players leaderboard display.
 
-## Technologia
-* **Język:** C++20 (standard wymagany dla `std::ranges` i `std::filesystem`)
-* **Biblioteka graficzna:** SFML 2.6.2
-* **Środowisko:** Visual Studio 2022
+## Technology Stack
+* **Language:** C++20 (utilizing `std::ranges` and `std::filesystem`)
+* **Graphics Library:** SFML 2.6.2
+* **IDE:** Visual Studio 2022
 
-## Jak uruchomić?
-Gra powinna uruchomić się bez problemu i konieczności pobierania dodatkowych plików
-1. Pobierz repozytorium: `git clone https://github.com/Wojtek4321/Knights-Legacy.git`
-2. Otwórz `.sln` w Visual Studio 2022.
+## How to Run
+The project is configured to run out of the box without downloading extra dependencies:
+1. **Clone the repository:** `git clone https://github.com/Wojtek4321/Knights-Legacy.git`
 
-Wykorzystane assety:
-https://pixelfrog-assets.itch.io/tiny-swords
+## Credits & Assets
+Graphics: Tiny Swords by Pixel Frog (CC0 Licensed)(https://pixelfrog-assets.itch.io/tiny-swords).
+Fonts: SMW Text 2 NC.
+
+Developed for educational purposes.
