@@ -30,4 +30,5 @@ The project is configured to run out of the box without downloading extra depend
 Graphics: Tiny Swords by Pixel Frog (CC0 Licensed)(https://pixelfrog-assets.itch.io/tiny-swords).
 Fonts: SMW Text 2 NC.
 
+
 Developed for educational purposes.
